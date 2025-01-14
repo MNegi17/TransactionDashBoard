@@ -1,7 +1,7 @@
 # MERN Stack Project - Product Transactions Dashboard
 This project is a full-stack application built using the MERN stack. It integrates backend APIs with a dynamic frontend to display and analyze product transaction data fetched from a third-party API.
 
-##Features
+## Features
 Backend
 1. Database Initialization: Fetches data from a third-party API and initializes the database with seed data, supporting efficient collection structures.
 
