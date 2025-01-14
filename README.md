@@ -26,15 +26,26 @@ Combines responses from other APIs to provide a consolidated view of transaction
 Displays transactions with search and pagination functionality.
 Includes a dropdown to filter transactions by month (default: March).
 
-2. Statistics Section:
+![image](https://github.com/user-attachments/assets/17cca4a1-18d7-4311-94d7-439244b34a5e)
+
+
+3. Statistics Section:
 Showcases total sale amount, sold items, and unsold items for the selected month.
 
-3. Charts:
+![image](https://github.com/user-attachments/assets/bfe2015f-670e-4ab5-8a51-a7600d4bde1f)
+
+
+5. Charts:
 Bar chart visualizes the distribution of products across price ranges.
 Pie chart displays the distribution of items across categories.
 Technical Highlights
 
+![image](https://github.com/user-attachments/assets/99619160-e674-4034-9973-023724387756)
+
+
 Backend: Node.js, Express.js, MongoDB
+
+
 Frontend: React.js
 
 Visualization: Charts.js or any preferred charting library
